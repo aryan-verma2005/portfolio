@@ -1,0 +1,5 @@
+# Personal photo archive; website images in assets/ remain tracked.
+/my photo/
+
+# macOS metadata files
+.DS_Store
